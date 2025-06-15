@@ -1,9 +1,3 @@
-def main():
-    print("Hello from proj-concat!")
-
-
-if __name__ == "__main__":
-    main()
 """Concatenate an entire project into a single text file."""
 
 import argparse
